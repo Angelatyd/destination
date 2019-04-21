@@ -1,0 +1,13 @@
+body {background-color: lightpink; font-family: monospace;}
+#barcelona {font-size: 100%; text-align: center;}
+a:link {color: #000000;}
+/* a:visited {color: rgb(180, 34, 216);} */
+a:hover {color: rgb(65, 201, 225);}
+a:active {color: tomato;}
+/*#country {padding-left: 10px;}*/
+h1 {padding-left: 16px; padding-top: 16px;}
+ul {padding: 0px;}
+li {list-style: none; padding-left:  16px; font-size: 18px;}
+#gallery {margin: 0px; padding-left: 16px; opacity: 0.9; width: 400px; height: 280px;}
+.pic-description {width: 432px;}
+#sentence {text-align: center; margin-top: 5px;font-size: 20px; font-weight: bold;}
