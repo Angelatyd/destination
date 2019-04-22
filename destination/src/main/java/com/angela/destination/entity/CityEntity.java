@@ -1,4 +1,4 @@
-package com.angela.destination;
+package com.angela.destination.entity;
 
 import java.util.Date;
 
